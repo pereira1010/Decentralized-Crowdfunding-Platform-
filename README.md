@@ -18,6 +18,11 @@ This platform is perfect for learning how to develop, deploy, and interact with 
 ## Check out the project overview, goals and functions below :
 https://quicknode.notion.site/Session-6-70a6a1528f02492aa157e305eaf909ce
 
+## How to view contract
+Verified contract link: https://sepolia.etherscan.io/address/0x13c30555F0C3f3708CA3FfA696Ab66f5995758e0#code
+Contract Address: 0x13c30555F0C3f3708CA3FfA696Ab66f5995758e0
+Block number: 6507360
+
 ## How to code with solidity and Metamask:
 Use the open source Remix website to start coding in solidity 
 
