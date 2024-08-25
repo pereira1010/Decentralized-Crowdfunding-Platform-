@@ -61,7 +61,7 @@ To interact with Ethereum test networks, you'll need test ether. Here's how to g
 1. **Select a test network**: Open MetaMask and switch to a test network - Sepolia
 2. **Get test ether**: You can use Alchemy faucet for free test ether at https://www.alchemy.com/faucets/ethereum-sepolia
 
-### 3. **Using MetaMask**
+###**Using MetaMask**
 
 MetaMask enables interaction with smart contracts. For these experiments, you will use Remix, an online Solidity IDE.
 
