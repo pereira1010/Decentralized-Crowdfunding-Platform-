@@ -19,7 +19,7 @@ This platform is perfect for learning how to develop, deploy, and interact with 
 https://quicknode.notion.site/Session-6-70a6a1528f02492aa157e305eaf909ce
 
 ## How to view contract
-- **Verified contract link**: https://sepolia.etherscan.io/address/0x13c30555F0C3f3708CA3FfA696Ab66f5995758e0#code
+- **Verified contract link**: https://sepolia.etherscan.io/address/0x144be09e6ddd31946696a23bc20a76f45c91807a#code
 - **Contract Address**: 0x13c30555F0C3f3708CA3FfA696Ab66f5995758e0
 - **Block number**: 6507360
 
@@ -80,4 +80,5 @@ If you come across a bug, please submit an issue using the issue tab above. To s
 - Limited Error Handling: The current implementation may not handle all edge cases, particularly around campaign finalization and refunds.
 - No Frontend: Interaction with the platform requires direct use of Etherscan, as no frontend interface is provided.
 - Milestone Voting: Voting power is not weighted by contribution amount, which may affect decision fairness.
+- Proper Functions: Failure to implement proper require statements in smart contracts can lead to unexpected behaviors, such as allowing unauthorized actions, approving non-existent milestones, or processing invalid transactions, which can compromise the security and functionality of the contract.
 
